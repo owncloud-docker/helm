@@ -1,5 +1,5 @@
 HELM_DOCS_IMAGE = "docker.io/jnorwood/helm-docs:v1.13.1"
-KUBECTL_IMAGE = "docker.io/bitnami/kubectl:1.29"
+KUBECTL_IMAGE = "docker.io/bitnami/kubectl:1.32"
 K3D_IMAGE = "ghcr.io/k3d-io/k3d:5-dind"
 
 def main(ctx):
