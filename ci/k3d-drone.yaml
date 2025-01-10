@@ -4,7 +4,7 @@ kind: Simple
 metadata:
   name: drone
 servers: 1
-image: docker.io/rancher/k3s:v1.29.3-k3s1
+image: docker.io/rancher/k3s:v1.32.0-k3s1
 options:
   k3s:
     extraArgs:
